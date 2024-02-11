@@ -11,14 +11,16 @@
 
 Pada tugas besar ini kami diminta untuk mengimplementasikan bruteforce yang telah diajarkan di mata kuliah IF2211 Strategi Algoritma. Kami diberi tugas untuk menemukan solusi dari permainan Breach Protocol yang paling optimal untuk setiap kombinasi matriks, sekuens, dan ukuran buffer dengan menggunakan algoritma brute force. Program ini berdasarkan CLI dan dibuat menggunakan bahasa python. 
 
+## Requirement
+> 1. Pastikan anda telah menginstall python pada perangkat anda
 
 ## How To Use
-> 1. Jika anda ingin menggunakan file, maka masukkan file .txt yang akan dicek ke dalam folder test<br>
+> 1. Jika anda ingin menggunakan file, maka masukkan file .txt yang akan dicek ke dalam folder test
 > 2. Pastikan path anda sudah benar yaitu di src
 > 3. Run program pada terminal dengan command // python main.py
 > 4. Pastikan nama file beserta ekxtensinya yang dimasukkan pada terminal benar
-> 6. Akan keluar opsi untuk menyimpan hasil ke dalam file pastikan juga nama file yang anda masukkan benar dengan ekstensi .txt
+> 5. Akan keluar opsi untuk menyimpan hasil ke dalam file pastikan juga nama file yang anda masukkan benar dengan ekstensi .txt
 
 ## Links
-
+- [Spek](http://bit.ly/spektucil1stima24)
 - [Repository](https://github.com/dimasb1954/Tucil1_13522112.git)

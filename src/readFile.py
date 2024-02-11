@@ -7,7 +7,7 @@ def getDirectory():
 def scanFile(nameFile):
     # Membaca File
     currentDir = getDirectory()
-    f = open(os.path.join(currentDir, f"TEST", f"{nameFile}"), 'r')
+    f = open(os.path.join(currentDir, f"../", f"test", f"{nameFile}"), 'r')
     arr = f.readlines()
     f.close()
 
